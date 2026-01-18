@@ -1,0 +1,22 @@
+.boutton1 {
+    background-color: black;
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.boutton2 {
+    margin: auto;
+    background-color: yellow;
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+    text-align: center;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+} 
